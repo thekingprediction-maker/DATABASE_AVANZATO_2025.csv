@@ -1,5 +1,5 @@
 TeamID,TeamName,xG_Per_Shot
-42,Arsenal,0.13
+42,Arsenal,0.14
 66,Aston Villa,0.11
 35,Bournemouth,0.12
 55,Brentford,0.17
@@ -8,14 +8,14 @@ TeamID,TeamName,xG_Per_Shot
 52,Crystal Palace,0.14
 45,Everton,0.12
 36,Fulham,0.11
-44,Burnley,0.11
-63,Leeds,0.11
-40,Liverpool,0.12
-50,Manchester City,0.14
+64,Hull City,0.13
+63,Leeds,0.13
+40,Liverpool,0.11
+50,Manchester City,0.13
 33,Manchester United,0.12
 34,Newcastle,0.12
-65,Nottingham Forest,0.10
+65,Nottingham Forest,0.11
 746,Sunderland,0.11
 47,Tottenham,0.11
-48,West Ham,0.13
-39,Wolverhampton,0.10
+1346,Coventry,0.13
+57,Ipswich,0.13
