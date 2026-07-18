@@ -1,21 +1,21 @@
-TeamID,TeamName,xG_Per_Shot
-42,Arsenal,0.14
-66,Aston Villa,0.11
-35,Bournemouth,0.12
-55,Brentford,0.17
-51,Brighton,0.12
-49,Chelsea,0.14
-52,Crystal Palace,0.14
-45,Everton,0.12
-36,Fulham,0.11
-64,Hull City,0.13
-63,Leeds,0.13
-40,Liverpool,0.11
-50,Manchester City,0.13
-33,Manchester United,0.12
-34,Newcastle,0.12
-65,Nottingham Forest,0.11
-746,Sunderland,0.11
-47,Tottenham,0.11
-1346,Coventry,0.13
-57,Ipswich,0.13
+TeamID,TeamName,xG_Per_Shot,TiriManual,TiriPortaManual
+42,Arsenal,0.14,,
+66,Aston Villa,0.11,,
+35,Bournemouth,0.12,,
+55,Brentford,0.17,,
+51,Brighton,0.12,,
+49,Chelsea,0.14,,
+52,Crystal Palace,0.14,,
+45,Everton,0.12,,
+36,Fulham,0.11,,
+64,Hull City,0.13,9.5,3.2
+63,Leeds,0.13,,
+40,Liverpool,0.11,,
+50,Manchester City,0.13,,
+33,Manchester United,0.12,,
+34,Newcastle,0.12,,
+65,Nottingham Forest,0.11,,
+746,Sunderland,0.11,,
+47,Tottenham,0.11,,
+1346,Coventry,0.13,10.5,3.6
+57,Ipswich,0.13,10.0,3.5
