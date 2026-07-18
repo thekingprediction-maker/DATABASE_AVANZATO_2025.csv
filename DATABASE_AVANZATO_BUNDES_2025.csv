@@ -1,19 +1,19 @@
-TeamID,TeamName,xG_Per_Shot
-170,Augsburg,0.11
-168,Bayer Leverkusen,0.14
-157,Bayern Munich,0.16
-175,Hamburger SV,0.11
-165,Borussia Dortmund,0.15
-163,Borussia Monchengladbach,0.11
-169,Eintracht Frankfurt,0.13
-160,Freiburg,0.13
-174,Schalke,0.13
-167,Hoffenheim,0.13
-192,FC Köln,0.12
-164,Mainz 05,0.15
-173,RB Leipzig,0.14
-1660,Elversberg,0.13
-172,Stuttgart,0.13
-182,Union Berlin,0.12
-162,Werder Bremen,0.10
-185,Paderborn,0.14
+TeamID,TeamName,xG_Per_Shot,TiriManual,TiriPortaManual
+170,Augsburg,0.11,,
+168,Bayer Leverkusen,0.14,,
+157,Bayern Munich,0.16,,
+175,Hamburger SV,0.11,,
+165,Borussia Dortmund,0.15,,
+163,Borussia Monchengladbach,0.11,,
+169,Eintracht Frankfurt,0.13,,
+160,Freiburg,0.13,,
+174,Schalke,0.13,11.5,3.9
+167,Hoffenheim,0.13,,
+192,FC Köln,0.12,,
+164,Mainz 05,0.15,,
+173,RB Leipzig,0.14,,
+1660,Elversberg,0.13,10.0,3.4
+172,Stuttgart,0.13,,
+182,Union Berlin,0.12,,
+162,Werder Bremen,0.10,,
+185,Paderborn,0.14,10.5,3.6
