@@ -1,21 +1,21 @@
-TeamID,TeamName,xG_Per_Shot
-505,Inter,0.13
-496,Juventus,0.11
-499,Atalanta,0.12
-489,AC Milan,0.13
-895,Como,0.12
-502,Fiorentina,0.11
-492,Napoli,0.11
-497,AS Roma,0.12
-503,Torino,0.12
-495,Genoa,0.11
-500,Bologna,0.10
-487,Lazio,0.11
-488,Sassuolo,0.12
-494,Udinese,0.11
-1579,Monza,0.12
-517,Venezia,0.12
-490,Cagliari,0.10
-523,Parma,0.09
-512,Frosinone,0.11
-867,Lecce,0.10
+TeamID,TeamName,xG_Per_Shot,TiriManual,TiriPortaManual
+505,Inter,0.13,,
+496,Juventus,0.11,,
+499,Atalanta,0.12,,
+489,AC Milan,0.13,,
+895,Como,0.12,,
+502,Fiorentina,0.11,,
+492,Napoli,0.11,,
+497,AS Roma,0.12,,
+503,Torino,0.12,,
+495,Genoa,0.11,,
+500,Bologna,0.10,,
+487,Lazio,0.11,,
+488,Sassuolo,0.12,,
+494,Udinese,0.11,,
+1579,Monza,0.12,10.5,3.6
+517,Venezia,0.12,9.5,3.2
+490,Cagliari,0.10,,
+523,Parma,0.09,,
+512,Frosinone,0.11,10.0,3.4
+867,Lecce,0.10,,
